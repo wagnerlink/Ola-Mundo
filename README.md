@@ -1,8 +1,9 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
+
+Primeiro repositório do curso de Git e GitHub
 
 
-Repositório criado para estudos
+Repositório criado para **estudos**
 
 
-linha criada diretamente do site!
+linha criada diretamente do *site*!
